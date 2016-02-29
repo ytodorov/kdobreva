@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KDobrevaWeb", "KDobrevaWeb\KDobrevaWeb.csproj", "{685B6D45-D5F0-450A-9975-FC0FC59AA860}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KdobrevaTest", "KdobrevaTest\KdobrevaTest.csproj", "{6EC015DE-DA6C-469B-B338-5D01DF1AC296}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{685B6D45-D5F0-450A-9975-FC0FC59AA860}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{685B6D45-D5F0-450A-9975-FC0FC59AA860}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{685B6D45-D5F0-450A-9975-FC0FC59AA860}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6EC015DE-DA6C-469B-B338-5D01DF1AC296}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EC015DE-DA6C-469B-B338-5D01DF1AC296}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EC015DE-DA6C-469B-B338-5D01DF1AC296}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EC015DE-DA6C-469B-B338-5D01DF1AC296}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
