@@ -223,6 +223,7 @@
     <Content Include="assets\custom\images\userpic05.jpg" />
     <Content Include="assets\custom\images\WB029022K-01.jpg" />
     <Content Include="assets\custom\images\WB029022K.jpg" />
+    <Content Include="assets\custom\js\googleAnalytics.js" />
     <Content Include="assets\custom\js\script.js" />
     <Content Include="assets\custom\php\form.php" />
     <Content Include="assets\vendor\anicounter\jquery.counterup.min.js" />
