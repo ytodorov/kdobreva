@@ -369,14 +369,15 @@
                 var styles = [
                     {
                         stylers: [
-                            {saturation: -100}
+                            //{saturation: -100}
                         ]
                     }, {
                         featureType: "road",
-                        elementType: "geometry",
+                        elementType: "geometry"
+                        ,
                         stylers: [
-                            {lightness: 100},
-                            {visibility: "simplified"}
+                            //{lightness: 50},
+                            //{visibility: "simplified"}
                         ]
                     }, {
                         featureType: "road",
@@ -389,19 +390,19 @@
 
                 // Create a new StyledMapType object, passing it the array of styles,
                 // as well as the name to be displayed on the map type control.
-                var styledMap = new google.maps.StyledMapType(styles, {name: "Styled Map"});
+                var styledMap = new google.maps.StyledMapType(null, {name: "Styled Map"});
 
                 // Create a map object, and include the MapTypeId to add
                 // to the map type control.
-                var $latlng = new google.maps.LatLng(52.5075419, 13.4261419),
+                var $latlng = new google.maps.LatLng(42.7005699, 23.3265931),
                     $mapOptions = {
-                        zoom: 13,
+                        zoom: 18,
                         center: $latlng,
-                        panControl: false,
+                        panControl: true,
                         zoomControl: true,
-                        scaleControl: false,
-                        mapTypeControl: false,
-                        scrollwheel: false,
+                        scaleControl: true,
+                        mapTypeControl: true,
+                        scrollwheel: true,
                         mapTypeControlOptions: {
                             mapTypeIds: [google.maps.MapTypeId.ROADMAP, 'map_style']
                         }
