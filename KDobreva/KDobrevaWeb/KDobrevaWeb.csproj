@@ -146,6 +146,7 @@
     <Content Include="assets\custom\images\img-2.jpg" />
     <Content Include="assets\custom\images\img-3-01.jpg" />
     <Content Include="assets\custom\images\img-3.jpg" />
+    <Content Include="assets\custom\images\kremena\kremenaFb.jpg" />
     <Content Include="assets\custom\images\kremena\attendedFace.jpg" />
     <Content Include="assets\custom\images\kremena\magistar.jpg" />
     <Content Include="assets\custom\images\kremena\record.jpg" />
