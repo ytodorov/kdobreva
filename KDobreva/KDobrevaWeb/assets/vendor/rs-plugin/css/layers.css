@@ -4240,3 +4240,677 @@ tp-caption.Team-Thumb,
     border-width: 0px;
     border-radius: 100px 100px 100px 100px;
     cursor: pointer
+ }
+
+.soundcloudwrapper iframe {
+    width: 100% !important
+}
+.tp-caption.SleekLanding-Title,
+.SleekLanding-Title {
+    color: rgba(255, 255, 255, 1.00);
+    font-size: 35px;
+    line-height: 40px;
+    font-weight: 400;
+    font-style: normal;
+    font-family: Lato;
+    padding: 0 0 0 0px;
+    text-decoration: none;
+    text-align: left;
+    background-color: transparent;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0px;
+    border-radius: 0 0 0 0px;
+    text-align: left;
+    letter-spacing: 5px
+}
+.tp-caption.SleekLanding-ButtonBG,
+.SleekLanding-ButtonBG {
+    color: rgba(0, 0, 0, 1.00);
+    font-size: px;
+    line-height: px;
+    font-weight: 700;
+    font-style: normal;
+    font-family: ;
+    padding: 0 0 0 0px;
+    text-decoration: none;
+    text-align: left;
+    background-color: rgba(255, 255, 255, 0.10);
+    border-color: rgba(0, 0, 0, 0);
+    border-style: solid;
+    border-width: 0px;
+    border-radius: 5px 5px 5px 5px;
+    text-align: left;
+    -webkit-box-shadow: inset 0px 2px 0px 0px rgba(0, 0, 0, 0.15);
+    -moz-box-shadow: inset 0px 2px 0px 0px rgba(0, 0, 0, 0.15);
+    box-shadow: inset 0px 2px 0px 0px rgba(0, 0, 0, 0.15)
+}
+.tp-caption.SleekLanding-SmallTitle,
+.SleekLanding-SmallTitle {
+    color: rgba(255, 255, 255, 1.00);
+    font-size: 13px;
+    line-height: 50px;
+    font-weight: 900;
+    font-style: normal;
+    font-family: Lato;
+    padding: 0 0 0 0px;
+    text-decoration: none;
+    text-align: left;
+    background-color: transparent;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0px;
+    border-radius: 0 0 0 0px;
+    text-align: left;
+    letter-spacing: 2px
+}
+.tp-caption.SleekLanding-BottomText,
+.SleekLanding-BottomText {
+    color: rgba(255, 255, 255, 1.00);
+    font-size: 15px;
+    line-height: 24px;
+    font-weight: 400;
+    font-style: normal;
+    font-family: Lato;
+    padding: 0 0 0 0px;
+    text-decoration: none;
+    text-align: left;
+    background-color: transparent;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0px;
+    border-radius: 0 0 0 0px;
+    text-align: left
+}
+.tp-caption.SleekLanding-Social,
+.SleekLanding-Social {
+    color: rgba(255, 255, 255, 1.00);
+    font-size: 22px;
+    line-height: 30px;
+    font-weight: 400;
+    font-style: normal;
+    font-family: Arial;
+    padding: 0 0 0 0px;
+    text-decoration: none;
+    text-align: center;
+    background-color: transparent;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0px;
+    border-radius: 0 0 0 0px;
+    text-align: center
+}
+.tp-caption.SleekLanding-Social:hover,
+.SleekLanding-Social:hover {
+    color: rgba(0, 0, 0, 0.25);
+    text-decoration: none;
+    background-color: transparent;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0px;
+    border-radius: 0 0 0 0px;
+    cursor: pointer
+}
+#rev_slider_429_1_wrapper .tp-loader.spinner2 {
+    background-color: #555555 !important;
+}
+.tp-fat {
+    font-weight: 900 !important;
+}
+
+.tp-caption.PostSlider-Category,
+.PostSlider-Category {
+    color: rgba(0, 0, 0, 1.00);
+    font-size: 15px;
+    line-height: 15px;
+    font-weight: 300;
+    font-style: normal;
+    font-family: Roboto;
+    padding: 0 0 0 0px;
+    text-decoration: none;
+    background-color: transparent;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0px;
+    border-radius: 0 0 0 0px;
+    letter-spacing: 3px;
+    text-align: left
+}
+.tp-caption.PostSlider-Title,
+.PostSlider-Title {
+    color: rgba(0, 0, 0, 1.00);
+    font-size: 40px;
+    line-height: 40px;
+    font-weight: 400;
+    font-style: normal;
+    font-family: Playfair Display;
+    padding: 0 0 0 0px;
+    text-decoration: none;
+    background-color: transparent;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0px;
+    border-radius: 0 0 0 0px;
+    text-align: left
+}
+.tp-caption.PostSlider-Content,
+.PostSlider-Content {
+    color: rgba(119, 119, 119, 1.00);
+    font-size: 15px;
+    line-height: 23px;
+    font-weight: 400;
+    font-style: normal;
+    font-family: Roboto;
+    padding: 0 0 0 0px;
+    text-decoration: none;
+    background-color: transparent;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0px;
+    border-radius: 0 0 0 0px;
+    text-align: left
+}
+.tp-caption.PostSlider-Button,
+.PostSlider-Button {
+    color: rgba(0, 0, 0, 1.00);
+    font-size: 15px;
+    line-height: 40px;
+    font-weight: 500;
+    font-style: normal;
+    font-family: Roboto;
+    padding: 1px 56px 1px 32px;
+    text-decoration: none;
+    background-color: rgba(255, 255, 255, 1.00);
+    border-color: rgba(0, 0, 0, 1.00);
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 0px 0px 0px 0px;
+    text-align: left
+}
+.tp-caption.PostSlider-Button:hover,
+.PostSlider-Button:hover {
+    color: rgba(0, 0, 0, 1.00);
+    text-decoration: none;
+    background-color: rgba(238, 238, 238, 1.00);
+    border-color: rgba(0, 0, 0, 1.00);
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 0px 0px 0px 0px;
+    cursor: pointer
+}
+
+/* media queries */
+
+@media only screen and (max-width: 960px) {} @media only screen and (max-width: 768px) {} .tp-caption.LandingPage-Title,
+.LandingPage-Title {
+    color:rgba(255,
+    255,
+    255,
+    1.00);
+    font-size:70px;
+    line-height:80px;
+    font-weight:900;
+    font-style:normal;
+    font-family:Lato;
+    padding:0 0 0 0px;
+    text-decoration:none;
+    background-color:transparent;
+    border-color:transparent;
+    border-style:none;
+    border-width:0px;
+    border-radius:0 0 0 0px;
+    text-align:left;
+    letter-spacing:10px
+}
+.tp-caption.LandingPage-SubTitle,
+.LandingPage-SubTitle {
+    color: rgba(255, 255, 255, 1.00);
+    font-size: 20px;
+    line-height: 30px;
+    font-weight: 400;
+    font-style: italic;
+    font-family: Georgia, serif;
+    padding: 0 0 0 0px;
+    text-decoration: none;
+    background-color: transparent;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0px;
+    border-radius: 0 0 0 0px;
+    text-align: left
+}
+.tp-caption.LandingPage-Button,
+.LandingPage-Button {
+    color: rgba(0, 0, 0, 1.00);
+    font-size: 15px;
+    line-height: 54px;
+    font-weight: 500;
+    font-style: normal;
+    font-family: Roboto;
+    padding: 0px 35px 0px 35px;
+    text-decoration: none;
+    background-color: rgba(255, 255, 255, 1.00);
+    border-color: rgba(0, 0, 0, 1.00);
+    border-style: solid;
+    border-width: 0px;
+    border-radius: 0px 0px 0px 0px;
+    text-align: left;
+    letter-spacing: 3px
+}
+.tp-caption.LandingPage-Button:hover,
+.LandingPage-Button:hover {
+    color: rgba(0, 0, 0, 1.00);
+    text-decoration: none;
+    background-color: rgba(255, 255, 255, 1.00);
+    border-color: rgba(0, 0, 0, 1.00);
+    border-style: solid;
+    border-width: 0px;
+    border-radius: 0px 0px 0px 0px;
+    cursor: pointer
+}
+.tp-caption.App-Content a,
+.tp-caption.App-Content a:visited {
+    color: #89124e !important;
+    border-bottom: 1px solid transparent !important;
+    font-weight: bold !important;
+}
+.tp-caption.App-Content a:hover {
+    border-bottom: 1px solid #89124e !important;
+}
+.tp-caption.RockBand-LogoText,
+.RockBand-LogoText {
+    color: rgba(255, 255, 255, 1.00);
+    font-size: 60px;
+    line-height: 60px;
+    font-weight: 700;
+    font-style: normal;
+    font-family: Oswald;
+    padding: 0 0 0 0px;
+    text-decoration: none;
+    text-align: left;
+    background-color: transparent;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0px;
+    border-radius: 0 0 0 0px;
+    text-align: left
+}
+.tp-caption.Twitter-Content a,
+.tp-caption.Twitter-Content a:visited {
+    color: #fff !important;
+    text-decoration: underline !important;
+}
+.tp-caption.Twitter-Content a:hover {
+    color: #fff !important;
+    text-decoration: none !important;
+}
+.soundcloudwrapper iframe {
+    width: 100% !important
+}
+
+.tp-caption.Agency-LogoText,
+.Agency-LogoText {
+    color: rgba(255, 255, 255, 1.00);
+    font-size: 12px;
+    line-height: 20px;
+    font-weight: 400;
+    font-style: normal;
+    font-family: Lato;
+    padding: 0 0 0 0px;
+    text-decoration: none;
+    text-align: center;
+    background-color: transparent;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0px;
+    border-radius: 0 0 0 0px;
+    text-align: center;
+    letter-spacing: 1px
+}
+.tp-caption.ComingSoon-Highlight,
+.ComingSoon-Highlight {
+    color: rgba(255, 255, 255, 1.00);
+    font-size: 20px;
+    line-height: 37px;
+    font-weight: 400;
+    font-style: normal;
+    font-family: Lato;
+    padding: 0 20px 3px 20px;
+    text-decoration: none;
+    text-align: left;
+    background-color: rgba(0, 154, 238, 1.00);
+    border-color: transparent;
+    border-style: none;
+    border-width: 0px;
+    border-radius: 0 0 0 0px;
+    text-align: left
+}
+.tp-caption.ComingSoon-Count,
+.ComingSoon-Count {
+    color: rgba(255, 255, 255, 1.00);
+    font-size: 50px;
+    line-height: 50px;
+    font-weight: 900;
+    font-style: normal;
+    font-family: Lato;
+    padding: 0 0 0 0px;
+    text-decoration: none;
+    text-align: left;
+    background-color: transparent;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0px;
+    border-radius: 0 0 0 0px;
+    text-align: left
+}
+.tp-caption.ComingSoon-CountUnit,
+.ComingSoon-CountUnit {
+    color: rgba(255, 255, 255, 1.00);
+    font-size: 20px;
+    line-height: 20px;
+    font-weight: 400;
+    font-style: normal;
+    font-family: Lato;
+    padding: 0 0 0 0px;
+    text-decoration: none;
+    text-align: center;
+    background-color: transparent;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0px;
+    border-radius: 0 0 0 0px;
+    text-align: center
+}
+.tp-caption.ComingSoon-NotifyMe,
+.ComingSoon-NotifyMe {
+    color: rgba(164, 157, 143, 1.00);
+    font-size: 27px;
+    line-height: 35px;
+    font-weight: 600;
+    font-style: normal;
+    font-family: Lato;
+    padding: 0 0 0 0px;
+    text-decoration: none;
+    text-align: center;
+    background-color: transparent;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0px;
+    border-radius: 0 0 0 0px;
+    text-align: center
+}
+
+#mc_embed_signup input#mce-EMAIL {
+    font-family: "Lato", sans-serif;
+    font-size: 15px;
+    color: #000;
+    background-color: #fff;
+    line-height: 46px;
+    padding: 0 20px;
+    cursor: text;
+    border: 1px solid #fff;
+    width: 400px;
+    margin-bottom: 0px;
+    -webkit-transition: background-color 0.5s;
+    -moz-transition: background-color 0.5s;
+    -o-transition: background-color 0.5s;
+    -ms-transition: background-color 0.5s;
+    transition: background-color 0.5s;
+    -webkit-border-radius: 0px;
+    -moz-border-radius: 0px;
+    border-radius: 0px;
+}
+#mc_embed_signup input#mce-EMAIL[type="email"]:focus {
+    background-color: #fff;
+    border: 1px solid #666;
+    border-right: 0;
+}
+#mc_embed_signup input#mc-embedded-subscribe,
+#mc_embed_signup input#mc-embedded-subscribe:focus {
+    font-family: "Lato", sans-serif;
+    line-height: 46px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    font-size: 13px;
+    font-weight: 900;
+    padding: 0 20px;
+    border: 1px solid #009aee;
+    background: #009aee;
+    color: #fff;
+    -webkit-border-radius: 0px;
+    -moz-border-radius: 0px;
+    border-radius: 0px;
+}
+#mc_embed_signup input#mc-embedded-subscribe:hover {
+    background: #0083d4;
+}
+@media only screen and (max-width: 767px) {
+    #mc_embed_signup input#mce-EMAIL {
+        width: 200px;
+    }
+}
+.tp-caption.Agency-SmallTitle,
+.Agency-SmallTitle {
+    color: rgba(255, 255, 255, 1.00);
+    font-size: 15px;
+    line-height: 22px;
+    font-weight: 400;
+    font-style: normal;
+    font-family: lato;
+    padding: 0 0 0 0px;
+    text-decoration: none;
+    text-align: center;
+    background-color: transparent;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0px;
+    border-radius: 0 0 0 0px;
+    text-align: center;
+    letter-spacing: 6px
+}
+.tp-caption.Agency-SmallContent,
+.Agency-SmallContent {
+    color: rgba(255, 255, 255, 1.00);
+    font-size: 15px;
+    line-height: 24px;
+    font-weight: 400;
+    font-style: normal;
+    font-family: lato;
+    padding: 0 0 0 0px;
+    text-decoration: none;
+    text-align: center;
+    background-color: transparent;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0px;
+    border-radius: 0 0 0 0px;
+    text-align: center
+}
+.tp-caption.Agency-SmallLink,
+.Agency-SmallLink {
+    color: rgba(248, 124, 9, 1.00);
+    font-size: 12px;
+    line-height: 22px;
+    font-weight: 700;
+    font-style: normal;
+    font-family: lato;
+    padding: 0 0 0px 0;
+    text-decoration: none;
+    text-align: center;
+    background-color: transparent;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0px;
+    border-radius: 0 0 0 0px;
+    text-align: center;
+    letter-spacing: 2px;
+    border-bottom: 1px solid #f87c09 !important
+}
+.tp-caption.Agency-SmallLink:hover,
+.Agency-SmallLink:hover {
+    color: rgba(255, 255, 255, 1.00);
+    text-decoration: none;
+    background-color: transparent;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0px;
+    border-radius: 0 0 0 0px;
+    cursor: pointer
+}
+.tp-caption.Agency-NavButton,
+.Agency-NavButton {
+    color: rgba(51, 51, 51, 1.00);
+    font-size: 17px;
+    line-height: 50px;
+    font-weight: 500;
+    font-style: normal;
+    font-family: Roboto;
+    padding: 0px 0px 0px 0px;
+    text-decoration: none;
+    text-align: center;
+    background-color: rgba(255, 255, 255, 1.00);
+    border-color: rgba(0, 0, 0, 1.00);
+    border-style: solid;
+    border-width: 0px;
+    border-radius: 0px 0px 0px 0px;
+    text-align: center
+}
+.tp-caption.Agency-NavButton:hover,
+.Agency-NavButton:hover {
+    color: rgba(255, 255, 255, 1.00);
+    text-decoration: none;
+    background-color: rgba(51, 51, 51, 1.00);
+    border-color: rgba(0, 0, 0, 1.00);
+    border-style: solid;
+    border-width: 0px;
+    border-radius: 0px 0px 0px 0px;
+    cursor: pointer
+}
+.tp-caption.Agency-SmallLinkGreen,
+.Agency-SmallLinkGreen {
+    color: rgba(109, 177, 155, 1.00);
+    font-size: 12px;
+    line-height: 22px;
+    font-weight: 700;
+    font-style: normal;
+    font-family: lato;
+    padding: 0 0 0px 0;
+    text-decoration: none;
+    text-align: center;
+    background-color: transparent;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0px;
+    border-radius: 0 0 0 0px;
+    text-align: center;
+    letter-spacing: 2px;
+    border-bottom: 1px solid #6db19b !important
+}
+.tp-caption.Agency-SmallLinkGreen:hover,
+.Agency-SmallLinkGreen:hover {
+    color: rgba(255, 255, 255, 1.00);
+    text-decoration: none;
+    background-color: transparent;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0px;
+    border-radius: 0 0 0 0px;
+    cursor: pointer
+}
+.tp-caption.Agency-SmallLinkBlue,
+.Agency-SmallLinkBlue {
+    color: rgba(153, 153, 153, 1.00);
+    font-size: 12px;
+    line-height: 22px;
+    font-weight: 700;
+    font-style: normal;
+    font-family: lato;
+    padding: 0 0 0px 0;
+    text-decoration: none;
+    text-align: center;
+    background-color: transparent;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0px;
+    border-radius: 0 0 0 0px;
+    text-align: center;
+    letter-spacing: 2px;
+    border-bottom: 1px solid #999 !important
+}
+.tp-caption.Agency-SmallLinkBlue:hover,
+.Agency-SmallLinkBlue:hover {
+    color: rgba(255, 255, 255, 1.00);
+    text-decoration: none;
+    background-color: transparent;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0px;
+    border-radius: 0 0 0 0px;
+    cursor: pointer
+}
+.tp-caption.Agency-LogoText,
+.Agency-LogoText {
+    color: rgba(255, 255, 255, 1.00);
+    font-size: 12px;
+    line-height: 20px;
+    font-weight: 400;
+    font-style: normal;
+    font-family: Lato;
+    padding: 0 0 0 0px;
+    text-decoration: none;
+    text-align: center;
+    background-color: transparent;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0px;
+    border-radius: 0 0 0 0px;
+    text-align: center;
+    letter-spacing: 1px
+}
+.tp-caption.Agency-ArrowTooltip,
+.Agency-ArrowTooltip {
+    color: rgba(51, 51, 51, 1.00);
+    font-size: 15px;
+    line-height: 20px;
+    font-weight: 400;
+    font-style: normal;
+    font-family: Permanent Marker;
+    padding: 0 0 0 0px;
+    text-decoration: none;
+    text-align: left;
+    background-color: transparent;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0px;
+    border-radius: 0 0 0 0px;
+    text-align: left
+}
+.tp-caption.Agency-SmallSocial,
+.Agency-SmallSocial {
+    color: rgba(255, 255, 255, 1.00);
+    font-size: 30px;
+    line-height: 30px;
+    font-weight: 400;
+    font-style: normal;
+    font-family: Arial;
+    padding: 0 0 0 0px;
+    text-decoration: none;
+    text-align: center;
+    background-color: transparent;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0px;
+    border-radius: 0 0 0 0px;
+    text-align: center
+}
+.tp-caption.Agency-SmallSocial:hover,
+.Agency-SmallSocial:hover {
+    color: rgba(51, 51, 51, 1.00);
+    text-decoration: none;
+    background-color: transparent;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0px;
+    border-radius: 0px 0px 0px 0px;
+    cursor: pointer
+}
