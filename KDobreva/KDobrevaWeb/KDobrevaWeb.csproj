@@ -134,6 +134,10 @@
     <Content Include="assets\custom\images\cd-icon-arrow.svg" />
     <Content Include="assets\custom\images\cd-icon-close.svg" />
     <Content Include="assets\custom\images\cd-icon-zoom.svg" />
+    <Content Include="assets\custom\images\face1.jpg" />
+    <Content Include="assets\custom\images\face2.jpg" />
+    <Content Include="assets\custom\images\face3.jpg" />
+    <Content Include="assets\custom\images\face4.jpg" />
     <Content Include="assets\custom\images\grid.png" />
     <Content Include="assets\custom\images\hp-portf-01 copy.png" />
     <Content Include="assets\custom\images\hp-portf-01.png" />
