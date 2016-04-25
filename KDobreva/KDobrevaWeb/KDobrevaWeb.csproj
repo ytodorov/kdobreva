@@ -96,6 +96,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="assets\custom\css\style.css" />
+    <Content Include="assets\custom\images\attendanceCertificate.jpg" />
     <Content Include="assets\custom\images\backgrounds\bg-dark.png" />
     <Content Include="assets\custom\images\backgrounds\bg-light.png" />
     <Content Include="assets\custom\images\backgrounds\bg-light2.png" />
@@ -131,6 +132,7 @@
     <Content Include="assets\custom\images\backgrounds\wood_1.png" />
     <Content Include="assets\custom\images\backgrounds\wood_1_%402X.png" />
     <Content Include="assets\custom\images\back_top.png" />
+    <Content Include="assets\custom\images\bakalavar.jpg" />
     <Content Include="assets\custom\images\cd-icon-arrow.svg" />
     <Content Include="assets\custom\images\cd-icon-close.svg" />
     <Content Include="assets\custom\images\cd-icon-zoom.svg" />
@@ -150,10 +152,13 @@
     <Content Include="assets\custom\images\img-2.jpg" />
     <Content Include="assets\custom\images\img-3-01.jpg" />
     <Content Include="assets\custom\images\img-3.jpg" />
+    <Content Include="assets\custom\images\kremena\attendanceCertificate.jpg" />
+    <Content Include="assets\custom\images\kremena\bakalavar.jpg" />
     <Content Include="assets\custom\images\kremena\kremenaFb.jpg" />
     <Content Include="assets\custom\images\kremena\attendedFace.jpg" />
     <Content Include="assets\custom\images\kremena\magistar.jpg" />
     <Content Include="assets\custom\images\kremena\record.jpg" />
+    <Content Include="assets\custom\images\kremena\trainingDiploma.jpg" />
     <Content Include="assets\custom\images\magazine\00-01.jpg" />
     <Content Include="assets\custom\images\magazine\00.jpg" />
     <Content Include="assets\custom\images\magazine\01-01.jpg" />
@@ -190,6 +195,7 @@
     <Content Include="assets\custom\images\magazine\thumbs\07.jpg" />
     <Content Include="assets\custom\images\magazine\thumbs\08-01.jpg" />
     <Content Include="assets\custom\images\magazine\thumbs\08.jpg" />
+    <Content Include="assets\custom\images\magistar.jpg" />
     <Content Include="assets\custom\images\paisley.png" />
     <Content Include="assets\custom\images\partners_01.png" />
     <Content Include="assets\custom\images\partners_02.png" />
@@ -224,6 +230,7 @@
     <Content Include="assets\custom\images\timeline-3.jpg" />
     <Content Include="assets\custom\images\timeline-4-01.jpg" />
     <Content Include="assets\custom\images\timeline-4.jpg" />
+    <Content Include="assets\custom\images\trainiнgDiploma.jpg" />
     <Content Include="assets\custom\images\userpic01.jpg" />
     <Content Include="assets\custom\images\userpic02.jpg" />
     <Content Include="assets\custom\images\userpic03.jpg" />
@@ -429,7 +436,6 @@
     <Content Include="email_settings.php" />
     <Content Include="favicon.ico" />
     <Content Include="indexOld.html" />
-    <Content Include="index01.html" />
     <Content Include="index.html" />
     <Content Include="test.html" />
     <Content Include="Web.config" />
