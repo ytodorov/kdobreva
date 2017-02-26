@@ -154,6 +154,9 @@
     <Content Include="assets\custom\images\img-3.jpg" />
     <Content Include="assets\custom\images\kremena\attendanceCertificate.jpg" />
     <Content Include="assets\custom\images\kremena\bakalavar.jpg" />
+    <Content Include="assets\custom\images\kremena\homeFace1.jpg" />
+    <Content Include="assets\custom\images\kremena\homeFace2.jpg" />
+    <Content Include="assets\custom\images\kremena\homeFace3.jpg" />
     <Content Include="assets\custom\images\kremena\kremenaFb.jpg" />
     <Content Include="assets\custom\images\kremena\attendedFace.jpg" />
     <Content Include="assets\custom\images\kremena\magistar.jpg" />
