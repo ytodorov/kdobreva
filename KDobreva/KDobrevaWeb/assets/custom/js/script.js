@@ -171,42 +171,42 @@
         });
 
         /* Progress Tracker */
-        (function () {
-            $('body').progressTracker({
+        //(function () {
+        //    $('body').progressTracker({
 
-                // Allows for navigating between content sections
-                linking: true,
+        //        // Allows for navigating between content sections
+        //        linking: true,
 
-                // "constant" = always visiable
-                // "hover" = shows on mouse hover
-                tooltip: "hover",
+        //        // "constant" = always visiable
+        //        // "hover" = shows on mouse hover
+        //        tooltip: "hover",
 
-                // The number specified is added to the default value at which the tracker changes to the next section.
-                positiveTolerance: 0,
+        //        // The number specified is added to the default value at which the tracker changes to the next section.
+        //        positiveTolerance: 0,
 
-                // The number specified is subtracted from the default value at which the tracker changes to the next section.
-                negativeTolerance: 60,
+        //        // The number specified is subtracted from the default value at which the tracker changes to the next section.
+        //        negativeTolerance: 60,
 
-                // Only displays the progress tracker when the user is between the top of the first section and the bottom of the last;
-                // It is only shown when the tracker sections are in view.
-                // Specify false if you want the tracker to always show.
-                displayWhenActive: false,
+        //        // Only displays the progress tracker when the user is between the top of the first section and the bottom of the last;
+        //        // It is only shown when the tracker sections are in view.
+        //        // Specify false if you want the tracker to always show.
+        //        displayWhenActive: false,
 
-                // Specify the value (in pixels) that you wish the progress tracker to be hidden when it is below that.
-                disableBelow: 0,
+        //        // Specify the value (in pixels) that you wish the progress tracker to be hidden when it is below that.
+        //        disableBelow: 0,
 
-                // Specifies what the plugin takes into account when deciding when to switch to the next section.
-                // "tracker" or "viewport"
-                tracking: "viewport"
+        //        // Specifies what the plugin takes into account when deciding when to switch to the next section.
+        //        // "tracker" or "viewport"
+        //        tracking: "viewport"
 
-            });
+        //    });
 
-            // Register custom scrollTop
-            $('.progress-tracker ul li a.pt-circle').off('click').on('click', function(e) {
-                softScroll(this, e);
-            });
+        //    // Register custom scrollTop
+        //    $('.progress-tracker ul li a.pt-circle').off('click').on('click', function(e) {
+        //        softScroll(this, e);
+        //    });
 
-        })();
+        //})();
 
         /* Soft Scroll */
         (function () {
