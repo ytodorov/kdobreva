@@ -38,6 +38,16 @@
     <script src="assets/custom/js/googleAnalytics.js"></script>
 </head>
 <body class="">
+    <!-- Load Facebook SDK for JavaScript -->
+    <div id="fb-root"></div>
+    <script>
+        (function (d, s, id) {
+            var js, fjs = d.getElementsByTagName(s)[0];
+            if (d.getElementById(id)) return;
+            js = d.createElement(s); js.id = id;
+            js.src = "//connect.facebook.net/bg_BG/sdk.js#xfbml=1&version=v2.8";
+            fjs.parentNode.insertBefore(js, fjs);
+        }(document, 'script', 'facebook-jssdk'));</script>
 
     <!--Pre-Loader-->
     <div id="preloader"><img src="assets/custom/images/preloader.gif"></div>
@@ -100,7 +110,7 @@
 
                     <!-- Logo -->
                     <div id="site-title">
-                        <a href="index.html">
+                        <a href="/">
                             <h1 class="font-accident-one-normal">
                                 <i class="flaticon-avatar36"></i>Кремена
                             </h1>
@@ -913,8 +923,14 @@
                                     <div class="dividewhite2"></div>
                                     <div class="follow">
                                         <ul>
-                                            <li><a href="https://www.facebook.com/KD-face-and-body-therapist-201473873256829/?fref=ts" target="_blank"><i class="flaticon-facebook44"></i></a></li>
+                                            <li><a href="https://www.facebook.com/KD-face-and-body-therapist-201473873256829" target="_blank"><i class="flaticon-facebook44"></i></a></li>
                                         </ul>
+                                    </div>
+                                    <div class="fb-like"
+                                         data-href="https://www.facebook.com/KD-face-and-body-therapist-201473873256829"
+                                         data-layout="standard"
+                                         data-action="like"
+                                         data-show-faces="true">
                                     </div>
                                     <!-- / Follow us Widget -->
                                 </div>
